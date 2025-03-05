@@ -1,6 +1,6 @@
 # PDGStudio 관리 웹앱(PWA) 서비스
 
-<img width="1099" alt="image" src="https://github.com/user-attachments/assets/10c97c41-b083-4688-bfc6-dd50cc8bfcd6" />
+![2025-03-055 35 23-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/21caa6a2-bb02-4995-9936-b352921077be)
 
 
 ## 왜 만들어졌을까요 ?
@@ -83,4 +83,8 @@ Railway (백엔드 배포)
 <img width="965" alt="image" src="https://github.com/user-attachments/assets/242466bd-4230-406b-b0a1-54b8c50bc222" />
 
 
-추후 더 예쁜 디자인을 할것이고, 금융관리 쪽은 좀 더 수정 할 예정입니다
+- PWA의 가장 큰 장점은 앱처럼 다운받아서 사용할수있다는것
+
+<img width="93" alt="image" src="https://github.com/user-attachments/assets/b07fed1d-342f-4d40-a22a-2fc6ced26b1f" />
+
+
